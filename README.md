@@ -1,1 +1,0 @@
-# grouping_practice.sql
